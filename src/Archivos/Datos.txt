@@ -1,0 +1,109 @@
+--------------------------------------------
+CI: 8987888
+NOMBRE: Ricardo
+APELLIDO: Milos
+DIRECCION: Av.Peru
+EMAIL: milos@gmail.com
+TELEFONO: 78988987
+TIPO DE CUENTA: Bolivianos
+N° DE CUENTA: 133140848
+SALDO CUENTA: 0.0
+CONTRASEÑA: JqVxmnCyy5njg8CepwOCMA==
+--------------------------------------------
+--------------------------------------------
+CI: 8987888
+NOMBRE: Ricardo
+APELLIDO: Milos
+DIRECCION: Av.Peru
+EMAIL: milos@gmail.com
+TELEFONO: 78988987
+TIPO DE CUENTA: Dolares
+N° DE CUENTA: 268967092
+SALDO CUENTA: 0.0
+CONTRASEÑA: JqVxmnCyy5njg8CepwOCMA==
+--------------------------------------------
+--------------------------------------------
+CI: 8987888
+NOMBRE: Ricardo
+APELLIDO: Milos
+DIRECCION: Av.Peru
+EMAIL: milos@gmail.com
+TELEFONO: 78988987
+TIPO DE CUENTA: Dolares
+N° DE CUENTA: 260039337
+SALDO CUENTA:0.0
+CONTRASEÑA: JqVxmnCyy5njg8CepwOCMA==
+--------------------------------------------
+
+--------------------------------------------
+CI: 8826778
+NOMBRE: Pedro
+APELLIDO: Poveda
+DIRECCION: Av. Mamore
+EMAIL: pedro@gmail.com
+TELEFONO: 78987888
+TIPO DE CUENTA: Dolares
+N° DE CUENTA: 250954885
+SALDO CUENTA:0.0
+CONTRASEÑA: MKtU2AuVdBcvfv5OQssr8w==
+--------------------------------------------
+--------------------------------------------
+CI: 8826778
+NOMBRE: Pedro
+APELLIDO: Poveda
+DIRECCION: Av. Mamore
+EMAIL: pedro@gmail.com
+TELEFONO: 78987888
+TIPO DE CUENTA: Bolivianos
+N° DE CUENTA: 191083561
+SALDO CUENTA:0.0
+CONTRASEÑA: MKtU2AuVdBcvfv5OQssr8w==
+--------------------------------------------
+--------------------------------------------
+CI: 2882085
+NOMBRE: Alfredo
+APELLIDO: Cordova
+DIRECCION: Av.Chapare
+EMAIL: alfredo@gmailc.om
+TELEFONO: 78989989
+TIPO DE CUENTA: Euros
+N° DE CUENTA: 397358008
+SALDO CUENTA:0.0
+CONTRASEÑA: lz7R/0yLgPiRCfLnfRKGhg==
+--------------------------------------------
+--------------------------------------------
+CI: 2882085
+NOMBRE: Alfredo
+APELLIDO: Cordova
+DIRECCION: Av.Chapare
+EMAIL: alfredo@gmailc.om
+TELEFONO: 78989989
+TIPO DE CUENTA: Dolares
+N° DE CUENTA: 220741399
+SALDO CUENTA:0.0
+CONTRASEÑA: lz7R/0yLgPiRCfLnfRKGhg==
+--------------------------------------------
+--------------------------------------------
+CI: asc
+NOMBRE: asa
+APELLIDO: sca
+DIRECCION: dsvs
+EMAIL: sdvsv
+TELEFONO: vsdv
+TIPO DE CUENTA: Dolares
+N° DE CUENTA: 283078055
+SALDO CUENTA:0.0
+CONTRASEÑA: 2+KSkovnMqo9VjmzBZiIkw==
+--------------------------------------------
+--------------------------------------------
+CI: 123
+NOMBRE: peres
+APELLIDO: lopez
+DIRECCION: ayoma
+EMAIL: asdawd@gmail.com
+TELEFONO: 213454657
+TIPO DE CUENTA: Bolivianos
+N° DE CUENTA: 117069734
+SALDO CUENTA:0.0
+CONTRASEÑA: 2+KSkovnMqo9VjmzBZiIkw==
+--------------------------------------------

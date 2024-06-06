@@ -1,0 +1,455 @@
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 18:52:26
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 850.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 18:52:45
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -100.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 18:53:25
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -150.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 18:53:25
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 150.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 19:09:26
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 19:11:00
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 50.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 19:12:43
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 100.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 21:30:29
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -70.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 21:30:29
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 70.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 21:34:20
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -100.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 21:34:20
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 100.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 21:39:07
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -140.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 21:39:07
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 140.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 21:45:30
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -140.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 21:45:30
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 0.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 21:49:38
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -140.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 21:52:58
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:19:59
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -160.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:20:09
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:20:18
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 14.347202295552368
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:20:20
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -100.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:29:30
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 10.04
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:29:31
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -70.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:31:26
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 320471395 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 4.01
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:31:27
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 320471395 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -30.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:46:26
+RECIBE DE N° DE CUENTA: 268967092 
+A N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 10.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:46:27
+N° DE CUENTA ORIGEN: 268967092 
+N° DE CUENTA DESTINO: 133140848 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -10.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:55:33
+RECIBE DE N° DE CUENTA: 268967092 
+A N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 69.7
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 22:55:34
+N° DE CUENTA ORIGEN: 268967092 
+N° DE CUENTA DESTINO: 133140848 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -10.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 23:18:30
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 100.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 23:22:47
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 393666654 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 13.37
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-15
+HORA: 23:22:48
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 393666654 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -100.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:21:01
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:38:44
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 14.35
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:38:45
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -100.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:39:51
+N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 10.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:40:23
+N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 60.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:42:23
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -50.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:45:13
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -100.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:47:16
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 1.43
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:47:17
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -10.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:56:08
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:56:56
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:58:18
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:58:51
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 28.69
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-16
+HORA: 11:58:52
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-22
+HORA: 20:18:49
+RECIBE DE N° DE CUENTA: 268967092 
+A N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 348.5
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-22
+HORA: 20:18:50
+N° DE CUENTA ORIGEN: 268967092 
+N° DE CUENTA DESTINO: 133140848 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -50.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-22
+HORA: 21:48:58
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -100.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-22
+HORA: 22:31:12
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-22
+HORA: 22:31:27
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -50.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-22
+HORA: 23:31:26
+RECIBE DE N° DE CUENTA: 133140848 
+A N° DE CUENTA: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: 7.17
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-22
+HORA: 23:31:27
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 268967092 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -50.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-22
+HORA: 23:40:21
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 50.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-05-31
+HORA: 23:40:27
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -0.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-06-02
+HORA: 19:06:17
+N° DE CUENTA: 131487165 
+TIPO DE MOVIMIENTO: DEPOSITO
+CANTIDAD: 200.0
+--------------------------------------------
+
+--------------------------------------------
+FECHA: 2024-06-02
+HORA: 19:29:19
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-06-02
+HORA: 19:32:15
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -50.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-06-02
+HORA: 22:52:01
+N° DE CUENTA ORIGEN: 133140848 
+N° DE CUENTA DESTINO: 4000056551 
+TIPO DE MOVIMIENTO: TRANSFERENCIA
+CANTIDAD: -200.0
+--------------------------------------------
+--------------------------------------------
+FECHA: 2024-06-02
+HORA: 23:18:23
+N° DE CUENTA: 133140848 
+TIPO DE MOVIMIENTO: RETIRO
+CANTIDAD: -50.0
+--------------------------------------------
